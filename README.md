@@ -11,4 +11,4 @@ Download the DB file and try to access the DB with your favorite DB tool.
 
 ## Acknowledgments
 
-The Query Town Mystery was inspired by the [SQL Murder Mystery](http://mystery.knightlab.com/).
+The Query Town Mystery was inspired by the [SQL Murder Mystery](https://mystery.knightlab.com/).
